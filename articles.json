@@ -24,7 +24,8 @@
      "name": "Рамблер/новости",
      "url": "https://news.rambler.ru/world/57401618-v-kieve-v-pyatyy-raz-obyavili-vozdushnuyu-trevogu/"
     }
-   ]
+   ],
+   "cover": "/covers/2026-11-13-plennye-i-evropa-za-stolom.jpg"
   },
   {
    "slug": "2026-11-13-evropa-arhitektura-bez-kremlya",
@@ -54,7 +55,8 @@
      "name": "The Irish Times",
      "url": "https://www.irishtimes.com/opinion/editorials/2026/11/10/the-irish-times-view-on-this-weeks-summits-europe-comes-to-dublin/"
     }
-   ]
+   ],
+   "cover": "/covers/2026-11-13-evropa-arhitektura-bez-kremlya.jpg"
   },
   {
    "slug": "2026-11-13-kadyrov-front-kak-nakazanie",
@@ -80,7 +82,8 @@
      "name": "Report.az",
      "url": "https://report.az/en"
     }
-   ]
+   ],
+   "cover": "/covers/2026-11-13-kadyrov-front-kak-nakazanie.jpg"
   },
   {
    "slug": "2026-11-13-gaza-udar-po-bolnice-nasser",
@@ -106,7 +109,8 @@
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/amp/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know"
     }
-   ]
+   ],
+   "cover": "/covers/2026-11-13-gaza-udar-po-bolnice-nasser.jpg"
   },
   {
    "slug": "2026-11-13-kazhdaya-pyad-zemli",
@@ -123,7 +127,8 @@
      "name": "ЧЕЧЕН ПРЕСС",
      "url": "https://thechechenpress.com/analytics/19414-mir-trebuet-kontsa-imperskoj-beznakazannosti.html"
     }
-   ]
+   ],
+   "cover": "/covers/2026-11-13-kazhdaya-pyad-zemli.jpg"
   },
   {
    "slug": "2026-11-12-novaya-gazeta-zakrytie",
@@ -161,7 +166,8 @@
      "name": "ЧЕЧЕН ПРЕСС",
      "url": "https://thechechenpress.com/developments/19408-v-ankare-schitayut-chto-rossiya-ne-sootvetstvuet-trebovaniyam-otg.html"
     }
-   ]
+   ],
+   "cover": "/covers/2026-11-08-ankara-rossiya-otg.jpg"
   },
   {
    "slug": "2026-11-07-avstriya-deportacii",
@@ -182,7 +188,8 @@
      "name": "ЧЕЧЕН ПРЕСС",
      "url": "https://thechechenpress.com/news/19398-avstrijskij-politik-gyunter-fellinger-yan-vystupil-s-rezkoj-kritikoj-avstrijskoj-politiki-deportatsii-chechentsev-v-rossiyu.html"
     }
-   ]
+   ],
+   "cover": "/covers/2026-11-07-avstriya-deportacii.jpg"
   },
   {
    "slug": "2026-11-07-zakaev-florenciya",
@@ -203,7 +210,8 @@
      "name": "ЧЕЧЕН ПРЕСС",
      "url": "https://thechechenpress.com/news/19400-doklad-premer-ministra-chri-akhmeda-zakaeva-na-konferentsii-v-italii.html"
     }
-   ]
+   ],
+   "cover": "/covers/2026-11-07-zakaev-florenciya.jpg"
   }
  ]
 }
